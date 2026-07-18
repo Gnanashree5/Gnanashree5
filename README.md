@@ -93,15 +93,15 @@ Git • GitHub • Android Studio • VS Code • Figma
 
 <p align="left">
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/s-b-gnanashree-jain-127263281?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/s-b-gnanashree-jain-127263281?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_GITHUB">
+<a href="https://github.com/Gnanashree5">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="gnanashreesbjain@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
