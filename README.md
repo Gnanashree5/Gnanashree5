@@ -93,7 +93,7 @@ Git • GitHub • Android Studio • VS Code • Figma
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/s-b-gnanashree-jain-127263281?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
