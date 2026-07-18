@@ -1,23 +1,115 @@
-[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)](https://github.com/Gnanashree5)
-<h1 align="center">Hi 👋, I'm S B GNANASHREE JAIN</h1>
-<h3 align="center">A passionate learner</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:8B5CF6&height=220&section=header&text=Gnanashree%20Jain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20|%20Full%20Stack%20|%20Flutter&descAlignY=58"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnanashree5&label=Profile%20views&color=0e75b6&style=flat" alt="gnanashree5" /> </p>
+# Hi there 👋 I'm S B Gnanashree Jain
 
-- 🌱 I’m currently learning **Python**
+### Software Engineer | AI | Full Stack | Flutter Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/s b gnanashree jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s b gnanashree jain" height="30" width="40" /></a>
-<a href="https://kaggle.com/gnanashree_jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gnanashree_jain" height="30" width="40" /></a>
+I'm a Computer Science graduate specializing in Artificial Intelligence, passionate about building software that is intuitive, accessible, and impactful.
+
+I enjoy transforming ideas into complete products—from UI/UX design to deployment—while creating solutions that solve real-world problems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 B.E. in Computer Science & Engineering (Artificial Intelligence)
+- 📍 Mysuru, Karnataka, India
+- 📱 Developed **Spashta Nudi**, a speech therapy Android application in collaboration with **All India Institute Of Speech and Hearing, Mysuru** currently available in <a href="https://play.google.com/store/apps/details?id=com.spashtanudi.app">Play store</a>
+- 🌱 Currently expanding my expertise in Full Stack Development, AI, and System Design
+- 💼 Open to Software Engineering, Frontend, Flutter, Full Stack, and AI opportunities
+
+---
+
+# 🏆 Featured Project
+
+## 📱 Spashta Nudi
+
+An educational mobile application developed in collaboration with **AIISH, Mysuru** to help parents support children's Kannada speech practice through engaging interactive learning activities.
+
+### My Contributions
+
+- UI/UX Design
+- Flutter Development
+- Firebase Integration
+- Firestore Database
+- Progress Tracking
+- Reward System
+- Play Store Publishing
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+Java • Python • JavaScript • SQL • HTML • CSS • Dart
+
+### Frontend
+
+React • Next.js • Flutter • Tailwind CSS
+
+### Backend
+
+Firebase • Firestore • Spring Boot • REST APIs
+
+### AI / Machine Learning
+
+PyTorch • TensorFlow • OpenCV
+
+### Tools
+
+Git • GitHub • Android Studio • VS Code • Figma • Postman
+
+---
+
+# 📂 Projects
+
+- 📱 Spashta Nudi
+- 🌿 Weed Detection using Deep Learning
+- 🤖 AI Learning Assistant
+- ☕ Java Full Stack Web Application
+- 🌐 Personal Portfolio Website
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gnanashree5&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnanashree5&layout=compact&theme=transparent"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnanashree5&show_icons=true&locale=en&layout=compact" alt="gnanashree5" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gnanashree5&theme=transparent"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnanashree5&show_icons=true&locale=en" alt="gnanashree5" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnanashree5&" alt="gnanashree5" /></p>
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="YOUR_GITHUB">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+### 💡 Quote
+
+> *"Building software that is useful, accessible and enjoyable."*
