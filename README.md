@@ -24,14 +24,14 @@ I enjoy transforming ideas into complete products—from UI/UX design to deploym
 
 ## 📱 Spashta Nudi
 
-An educational mobile application developed in collaboration with **AIISH, Mysuru** to help parents support children's Kannada speech practice through engaging interactive learning activities.
+An speech therapy mobile application developed in collaboration with **All India Institute of Speech and Hearing, Mysuru** to help parents support speech impaired children's Kannada speech practice through engaging interactive learning activities. <a href="https://play.google.com/store/apps/details?id=com.spashtanudi.app">Spashta nudi</a>
 
 ### My Contributions
 
+- Team lead
 - UI/UX Design
 - Flutter Development
 - Firebase Integration
-- Firestore Database
 - Progress Tracking
 - Reward System
 - Play Store Publishing
@@ -50,7 +50,7 @@ React • Next.js • Flutter • Tailwind CSS
 
 ### Backend
 
-Firebase • Firestore • Spring Boot • REST APIs
+Firebase • Firestore
 
 ### AI / Machine Learning
 
@@ -58,7 +58,7 @@ PyTorch • TensorFlow • OpenCV
 
 ### Tools
 
-Git • GitHub • Android Studio • VS Code • Figma • Postman
+Git • GitHub • Android Studio • VS Code • Figma 
 
 ---
 
@@ -66,7 +66,6 @@ Git • GitHub • Android Studio • VS Code • Figma • Postman
 
 - 📱 Spashta Nudi
 - 🌿 Weed Detection using Deep Learning
-- 🤖 AI Learning Assistant
 - ☕ Java Full Stack Web Application
 - 🌐 Personal Portfolio Website
 
