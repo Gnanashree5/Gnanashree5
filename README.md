@@ -38,7 +38,7 @@ A Flutter-based speech therapy mobile application developed in collaboration wit
 - Team Lead
 - UI/UX Design
 - Flutter Development
-- Firebase Authentication & Cloud Firestore
+- Firebase , Cloud Firestore
 - Progress Tracking System
 - Gamification & Reward System
 - Google Play Store Publishing
