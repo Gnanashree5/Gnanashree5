@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:8B5CF6&height=220&section=header&text=Gnanashree%20Jain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20|%20Full%20Stack%20|%20Flutter&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:8B5CF6&height=220&section=header&text=S%20B%20Gnanashree%20Jain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20AI%20|%20Full%20Stack%20|%20Flutter&descAlignY=58"/>
 
 # Hi there 👋 I'm S B Gnanashree Jain
 
