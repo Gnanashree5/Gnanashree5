@@ -51,16 +51,16 @@ A Flutter-based speech therapy mobile application developed in collaboration wit
 Java • Python • JavaScript • Dart • SQL • C
 
 ### Frontend
-React • Next.js • Flutter • Tailwind CSS
+React • Next.js • Flutter • Tailwind CSS • HTML • CSS
 
 ### Backend
 Spring Boot • Firebase • Cloud Firestore • REST APIs
 
 ### AI / Machine Learning
-PyTorch • TensorFlow • OpenCV • Computer Vision
+PyTorch • TensorFlow • OpenCV • Computer Vision • Flask
 
 ### Tools
-Git • GitHub • Android Studio • VS Code • Figma • Power BI
+Git • GitHub • Android Studio • VS Code • Tableau • Power BI
 
 ---
 
