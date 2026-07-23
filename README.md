@@ -4,17 +4,19 @@
 
 ### Software Engineer | AI | Full Stack | Flutter Developer
 
+🌐 **Portfolio:** https://gnanashree-portfolio.vercel.app
+
 I'm a Computer Science graduate specializing in Artificial Intelligence, passionate about building software that is intuitive, accessible, and impactful.
 
 I enjoy transforming ideas into complete products—from UI/UX design to deployment—while creating solutions that solve real-world problems.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.E. in Computer Science & Engineering (Artificial Intelligence)
 - 📍 Mysuru, Karnataka, India
-- 📱 Developed **Spashta Nudi**, a speech therapy Android application in collaboration with **All India Institute Of Speech and Hearing, Mysuru** currently available in <a href="https://play.google.com/store/apps/details?id=com.spashtanudi.app">Play store</a>
+- 📱 Developed **Spashta Nudi**, a speech therapy Android application in collaboration with the **All India Institute of Speech and Hearing (AIISH), Mysuru**, available on the **Google Play Store**
 - 🌱 Currently expanding my expertise in Full Stack Development, AI, and System Design
 - 💼 Open to Software Engineering, Frontend, Flutter, Full Stack, and AI opportunities
 
@@ -24,59 +26,69 @@ I enjoy transforming ideas into complete products—from UI/UX design to deploym
 
 ## 📱 Spashta Nudi
 
-An speech therapy mobile application developed in collaboration with **All India Institute of Speech and Hearing, Mysuru** to help parents support speech impaired children's Kannada speech practice through engaging interactive learning activities. <a href="https://play.google.com/store/apps/details?id=com.spashtanudi.app">Spashta nudi</a>
+A Flutter-based speech therapy mobile application developed in collaboration with the **All India Institute of Speech and Hearing (AIISH), Mysuru** to help parents support children's Kannada speech articulation through structured, interactive learning.
+
+### 🔗 Project Links
+
+- 🌐 **Portfolio Case Study:** https://gnanashree-portfolio.vercel.app/projects/spashta-nudi
+- 📱 **Google Play:** https://play.google.com/store/apps/details?id=com.spashtanudi.app
 
 ### My Contributions
 
-- Team lead
+- Team Lead
 - UI/UX Design
 - Flutter Development
-- Firebase Integration
-- Progress Tracking
-- Reward System
-- Play Store Publishing
+- Firebase Authentication & Cloud Firestore
+- Progress Tracking System
+- Gamification & Reward System
+- Google Play Store Publishing
 
 ---
 
 # 💻 Tech Stack
 
 ### Languages
-
-Java • Python • JavaScript • SQL • HTML • CSS • Dart
+Java • Python • JavaScript • Dart • SQL • C
 
 ### Frontend
-
 React • Next.js • Flutter • Tailwind CSS
 
 ### Backend
-
-Firebase • Firestore
+Spring Boot • Firebase • Cloud Firestore • REST APIs
 
 ### AI / Machine Learning
-
-PyTorch • TensorFlow • OpenCV
+PyTorch • TensorFlow • OpenCV • Computer Vision
 
 ### Tools
-
-Git • GitHub • Android Studio • VS Code • Figma 
+Git • GitHub • Android Studio • VS Code • Figma • Power BI
 
 ---
 
-# 📂 Projects
+# 📂 Featured Projects
 
-- 📱 Spashta Nudi
-- 🌿 Weed Detection using Deep Learning
-- ☕ Java Full Stack Web Application
+- 📱 Spashta Nudi – Parent-Assisted Speech Therapy Platform
+- 🤖 Enterprise AI Chatbot Platform
+- 🌿 AI-Based Weed Detection using Computer Vision
+- 📊 Heart Disease Analytics Dashboard
 - 🌐 Personal Portfolio Website
 
 ---
-
 
 # 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/s-b-gnanashree-jain-127263281?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://gnanashree-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4F8EF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://play.google.com/store/apps/details?id=com.spashtanudi.app">
+<img src="https://img.shields.io/badge/Google_Play-Spashta_Nudi-34A853?style=for-the-badge&logo=google-play&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/s-b-gnanashree-jain-127263281">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -84,7 +96,7 @@ Git • GitHub • Android Studio • VS Code • Figma
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="gnanashreesbjain@gmail.com">
+<a href="mailto:gnanashreesbjain@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
@@ -94,4 +106,4 @@ Git • GitHub • Android Studio • VS Code • Figma
 
 ### 💡 Quote
 
-> *"Building software that is useful, accessible and enjoyable."*
+> *"Building software that is useful, accessible, and enjoyable."*
